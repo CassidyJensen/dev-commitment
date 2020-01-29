@@ -1,4 +1,10 @@
 body{
     background: rgb(243,4,4);
-    background: linear-gradient(90deg, rgba(243,4,4,1) 0%, rgba(255,94,0,1) 35%, rgba(255,211,0,1) 100%);
+    background: linear-gradient(0deg, rgba(243,4,4,1) 0%, rgba(255,94,0,1) 35%, rgba(255,211,0,1) 100%);
+    /* background-repeat: no-repeat;
+    background-size: cover; */
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
