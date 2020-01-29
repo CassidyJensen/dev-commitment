@@ -20,6 +20,25 @@ body{
     box-shadow: 30px 10px 0 0 white;
   }
 
+  #burst-8 {
+    background: white;
+    width: 60px;
+    height: 60px;
+    position: relative;
+    text-align: center;
+    transform: rotate(20deg);
+  }
+  #burst-8:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 60px;
+    width: 60px;
+    background: white;
+    transform: rotate(135deg);
+  }
+
 .mountainstyle{
     position: absolute;
     content: '';
