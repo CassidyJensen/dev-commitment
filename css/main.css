@@ -11,10 +11,13 @@ body{
 }
 
 #moon {
-    width: 80px;
-    height: 80px;
-    border-radius: 50%;
-    box-shadow: 15px 15px 0 0 black;
+    position: absolute;
+    right: 20%;
+    top: 10%;
+    width: 100px;
+    height: 100px;
+    border-radius: 60%;
+    box-shadow: 30px 10px 0 0 white;
   }
 
 .mountainstyle{
