@@ -20,11 +20,16 @@ body{
     box-shadow: 30px 10px 0 0 white;
   }
 
-  #circle {
-    width: 100px;
-    height: 100px;
+  .circleshape {
+    width: 10px;
+    height: 10px;
     background: white;
-    border-radius: 50%
+    border-radius: 50%;
+    transition: .7s;
+  }
+
+  .circleshape:hover{
+      opacity: .1;
   }
 
 
