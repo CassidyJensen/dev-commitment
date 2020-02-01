@@ -99,7 +99,12 @@ p{
     height: 100px;
     border-radius: 60%;
     box-shadow: 30px 10px 0 0 white;
+    transition: .5s;
   }
+
+#moon:hover{
+    box-shadow: 30px 10px 0 0 darkred;
+}
 
   .circleshape {
     width: 10px;
