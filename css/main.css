@@ -154,8 +154,7 @@ p:hover{
       transition: .7s;
   }
 
-  .smallStar:hover,
-  .circleshape:hover{
+  .smallStar:hover{
       opacity: .1;
   }
 
