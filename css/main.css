@@ -249,7 +249,8 @@ p{
 }
 
 #mountain6{
-    right: 0px;
+    /* right: 0px; */
+    left: 1030px;
     border-right: 250px solid transparent;
     border-left: 250px solid transparent;
     border-bottom: 350px solid darkSlateBlue; /*mountain height*/
