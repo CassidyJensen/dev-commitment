@@ -46,7 +46,8 @@ p{
     right: 2%;
 }
 
-
+/* Inspired by: https://codepen.io/bjd901/pen/PNeaQx Brian Distad's css rocket */
+/*Using the noun project for the rocket by: Adrien Coquet*/
   
   .rocket {
     position: absolute;
