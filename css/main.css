@@ -117,6 +117,17 @@ body{
     border-bottom: 300px solid black; /*mountain height*/
 }
 
+#mountain-shadow2{
+    position: absolute;
+    content: '';
+    bottom: 120px;
+    left: 430px;
+    border-top: 0px solid transparent;
+    border-right: 200px solid trasnparent;
+    border-left: 120px solid transparent;
+    border-bottom: 200px solid white;
+}
+
 #mountain2{
     left: 300px;
     border-right: 250px solid transparent;
