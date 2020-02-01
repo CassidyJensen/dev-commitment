@@ -66,6 +66,28 @@ p{
       bottom: 100%;
     }
   }
+
+  .shootingStar{
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background: white;
+    border-radius: 50%;
+    left: 0px;
+    top: 20%;
+    animation: shoot 3s 5s;
+  }
+
+  @keyframes shoot{
+      0%{
+          left: 0%;
+          top: 20%;
+      }
+      100%{
+          left: 100%;
+          top: 30%;
+      }
+  }
   
 
 #moon {
