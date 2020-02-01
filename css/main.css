@@ -96,12 +96,12 @@ body{
 #mountain-shadow{
     position: absolute;
     content: '';
-    bottom: 150px;
-    left: 0px;
+    bottom: 0px;
+    left: -200px;
     border-top: 0px solid transparent;
     border-right: 200px solid trasnparent;
-    border-left: 100px solid transparent;
-    border-bottom: 100px solid white;
+    border-left: 300px solid transparent;
+    border-bottom: 260px solid white;
 }
 
 #mountain{
@@ -132,12 +132,12 @@ body{
 #mountain-shadow2{
     position: absolute;
     content: '';
-    bottom: 120px;
-    left: 430px;
+    bottom: 0px;
+    left: 300px;
     border-top: 0px solid transparent;
     border-right: 200px solid trasnparent;
-    border-left: 120px solid transparent;
-    border-bottom: 200px solid white;
+    border-left: 250px solid transparent;
+    border-bottom: 350px solid white;
 }
 
 #mountain2{
