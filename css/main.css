@@ -99,6 +99,17 @@ body{
     border-bottom: 260px solid black; /*mountain height*/
 }
 
+#mountain-shadow1{
+    position: absolute;
+    content: '';
+    bottom: 100px;
+    left: 220px;
+    border-top: 0px solid transparent;
+    border-right: 200px solid trasnparent;
+    border-left: 80px solid transparent;
+    border-bottom: 180px solid white;
+}
+
 #mountain1{
     left: 120px;
     border-right: 180px solid transparent;
