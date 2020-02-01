@@ -45,15 +45,17 @@ p{
     bottom: 0%;
     right: 2%;
 }
+
+
   
-.rocket {
+  .rocket {
     position: absolute;
-    bottom: -600px;
+    bottom: 0px;
     left:35%;
     animation: fly 3s .5s ease-in;
   }
   
-  @keyframes fly {
+  /* @keyframes fly {
     0% {
       bottom: -600px;   
     }
@@ -61,7 +63,7 @@ p{
       bottom: 100%;
     }
   }
-  
+   */
 
 #moon {
     position: absolute;
