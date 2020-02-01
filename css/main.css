@@ -259,6 +259,16 @@ p{
 #snowCap1{
     position: absolute;
     content: '';
+    bottom: 390px;
+    left: 824px;
+    border-top: 0px solid transparent;
+    border-right: 26px solid trasnparent;
+    border-left: 26px solid transparent;
+    border-bottom: 60px solid white;
+}
+#snowCap1-2{
+    position: absolute;
+    content: '';
     bottom: 400px;
     left: 824px;
     border-top: 0px solid transparent;
