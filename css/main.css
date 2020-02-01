@@ -21,7 +21,7 @@ p{
     box-shadow: 0px 0px 50px black;
     /* text-shadow: 0 0 5px purple; */
     border-radius: 20px;
-    transition: .5s;
+    transition: .2s;
 }
 
 p:hover{
