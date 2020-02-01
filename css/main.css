@@ -75,7 +75,7 @@ p{
     border-radius: 50%;
     left: -10px;
     top: 20%;
-    animation: shoot 3s 5s;
+    animation: shoot 2s 5s ease-in;
   }
 
   @keyframes shoot{
@@ -85,7 +85,7 @@ p{
       }
       100%{
           left: 100%;
-          top: 30%;
+          top: 40%;
       }
   }
   
