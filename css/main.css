@@ -256,6 +256,17 @@ p{
     border-bottom: 450px solid darkseagreen;
 }
 
+#snowCap1{
+    position: absolute;
+    content: '';
+    bottom: 400px;
+    left: 700px;
+    border-top: 0px solid transparent;
+    border-right: 200px solid transparent;
+    border-left: 50px solid transparent;
+    border-bottom: 50px solid white;
+}
+
 #mountain4{
     left: 900px;
     border-right: 180px solid transparent;
