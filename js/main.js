@@ -6,7 +6,7 @@ window.onload = () => {
   };
   
   function startSetTimeoutAnimation() {
-    const refreshRate = 1000 / 20;
+    const refreshRate = 200;
     const maxOpacity = 1;
     for(i=1; i<=9; i++){
         let stars = document.getElementById('star' + i);
