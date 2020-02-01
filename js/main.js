@@ -33,6 +33,6 @@ window.onload = () => {
             fade = fade * (-1);
         }
         stars.style.opacity = opac;
-        }, refreshRate);
+        }, refreshRate + 100);
     }
   }
