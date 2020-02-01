@@ -154,10 +154,6 @@ p:hover{
       transition: .7s;
   }
 
-  .smallStar:hover{
-      opacity: .1;
-  }
-
   #star1{
       left: 90%;
       top: 30%;
