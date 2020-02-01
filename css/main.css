@@ -95,6 +95,27 @@ p:hover{
       }
   }
   
+  .comet{
+    position: absolute;
+    width: 11px;
+    height:11px;
+    background: lightskyblue;
+    border-radius: 50%;
+    right: 0px;
+    top: -11px;
+    animation: cometing 2s 8s ease-in;
+  }
+
+  @keyframes cometing{
+      0%{
+          right: 0px;
+          top: -11px;
+      }
+      100%{
+          right: 100%;
+          top: 40%;
+      }
+  }
 
 #moon {
     position: absolute;
