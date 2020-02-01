@@ -190,19 +190,11 @@ p{
     border-bottom: 260px solid darkgrey;
 }
 
-#mountain-shadow:hover{
-    bottom: -50px;
-}
-
 #mountain{
     left: -200px;
     border-right: 300px solid transparent;
     border-left: 300px solid transparent;
     border-bottom: 260px solid #341154; /*mountain height*/
-}
-
-#mountain:hover{
-    bottom: -50px;
 }
 
 #mountain-shadow1{
