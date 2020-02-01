@@ -11,12 +11,20 @@ body{
     background-attachment: fixed;
 }
 
-.words{
+p{
     color: white;
     background-color: purple;
     padding: 3px;
     font-family: 'Indie Flower', sans-serif;
     font-size: 2em;
+}
+
+.words1{
+    
+}
+
+.words2{
+
 }
 
 #moon {
