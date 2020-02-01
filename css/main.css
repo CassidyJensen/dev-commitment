@@ -171,11 +171,33 @@ body{
     border-bottom: 300px solid black; /*mountain height*/
 }
 
+#mountain-shadow5{
+    position: absolute;
+    content: '';
+    bottom: 0px;
+    left: 900px;
+    border-top: 0px solid transparent;
+    border-right: 200px solid trasnparent;
+    border-left: 180px solid transparent;
+    border-bottom: 300px solid white;
+}
+
 #mountain5{
     left: 600px;
     border-right: 250px solid transparent;
     border-left: 250px solid transparent;
     border-bottom: 450px solid black; /*mountain height*/
+}
+
+#mountain-shadow6{
+    position: absolute;
+    content: '';
+    bottom: 160px;
+    left: 1180px;
+    border-top: 0px solid transparent;
+    border-right: 200px solid trasnparent;
+    border-left: 100px solid transparent;
+    border-bottom: 150px solid white;
 }
 
 #mountain6{
