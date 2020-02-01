@@ -204,12 +204,12 @@ p{
 #mountain-shadow4{
     position: absolute;
     content: '';
-    bottom: 140px;
-    left: 730px;
+    bottom: 0px;
+    left: 600px;
     border-top: 0px solid transparent;
     border-right: 200px solid trasnparent;
-    border-left: 120px solid transparent;
-    border-bottom: 300px solid darkseagreen;
+    border-left: 250px solid transparent;
+    border-bottom: 450px solid darkseagreen;
 }
 
 #mountain4{
