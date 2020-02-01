@@ -70,8 +70,8 @@ p{
 
   .shootingStar{
     position: absolute;
-    width: 10px;
-    height: 10px;
+    width: 4px;
+    height: 4px;
     background: white;
     border-radius: 50%;
     left: -10px;
