@@ -144,7 +144,7 @@ p{
     left: -200px;
     border-right: 300px solid transparent;
     border-left: 300px solid transparent;
-    border-bottom: 260px solid black; /*mountain height*/
+    border-bottom: 260px solid darkSlateBlue; /*mountain height*/
 }
 
 #mountain-shadow1{
@@ -162,7 +162,7 @@ p{
     left: 120px;
     border-right: 180px solid transparent;
     border-left: 180px solid transparent;
-    border-bottom: 300px solid black; /*mountain height*/
+    border-bottom: 300px solid darkSlateBlue; /*mountain height*/
 }
 
 #mountain-shadow2{
@@ -180,7 +180,7 @@ p{
     left: 300px;
     border-right: 250px solid transparent;
     border-left: 250px solid transparent;
-    border-bottom: 350px solid black; /*mountain height*/
+    border-bottom: 350px solid darkSlateBlue; /*mountain height*/
 }
 
 #mountain-shadow3{
@@ -198,7 +198,7 @@ p{
     left: 400px;
     border-right: 300px solid transparent;
     border-left: 300px solid transparent;
-    border-bottom: 260px solid black; /*mountain height*/
+    border-bottom: 260px solid darkSlateBlue; /*mountain height*/
 }
 
 #mountain-shadow4{
@@ -216,7 +216,7 @@ p{
     left: 900px;
     border-right: 180px solid transparent;
     border-left: 180px solid transparent;
-    border-bottom: 300px solid black; /*mountain height*/
+    border-bottom: 300px solid darkSlateBlue; /*mountain height*/
 }
 
 #mountain-shadow5{
@@ -234,7 +234,7 @@ p{
     left: 600px;
     border-right: 250px solid transparent;
     border-left: 250px solid transparent;
-    border-bottom: 450px solid black; /*mountain height*/
+    border-bottom: 450px solid darkSlateBlue; /*mountain height*/
 }
 
 #mountain-shadow6{
@@ -252,5 +252,5 @@ p{
     right: 0px;
     border-right: 250px solid transparent;
     border-left: 250px solid transparent;
-    border-bottom: 350px solid black; /*mountain height*/
+    border-bottom: 350px solid darkSlateBlue; /*mountain height*/
 }
